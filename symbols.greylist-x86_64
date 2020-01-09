@@ -1,0 +1,2 @@
+cpu_bit_bitmap
+irq_set_affinity_hint

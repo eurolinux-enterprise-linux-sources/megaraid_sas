@@ -1,3 +1,4 @@
-# ELS - Enterprise Linux/EuroLinux Sources - megaraid_sas 
+# ELS - Enterprise Linux/EuroLinux Sources - megaraid_sas
+ 
 ## Usage:
-  Checkout branch or tag.
+  Checkout branch or tag. Use `make sources` to recreate  SOURCE0 archive.
